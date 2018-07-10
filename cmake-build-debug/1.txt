@@ -1,0 +1,24 @@
+Найдите ошибки в коде:
+int main(int argc, char** argv) {
+    int* j = new int(20);
+    for (int i = 0; i <= 20; ++i) {
+        j[i] = i;
+    }
+    return 0;
+}
+Найдите ошибки в коде:
+int main(int argc, char** argv) {
+    int* j = new int(20);
+    for (int i = 0; i <= 20; ++i) {
+        j[i] = i;
+    }
+    return 0;
+}
+Найдите ошибки в коде:
+int main(int argc, char** argv) {
+    int* j = new int(20);
+    for (int i = 0; i <= 20; ++i) {
+        j[i] = i;
+    }
+    return 0;
+}
